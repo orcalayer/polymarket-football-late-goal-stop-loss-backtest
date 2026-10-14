@@ -1,0 +1,117 @@
+subset,stop_cents,stop_window,sample_usd_per_10,sample_t,sample_n,test_usd_per_10,test_t,test_n,stops_hit_sample,stops_hit_test
+all,none,,-0.55,-1.6,1004,-0.76,-1.6,463,0,0
+all,-3,2 min,-2.71,-17.3,1004,-1.15,-3.5,463,865,252
+all,-3,5 min,-2.75,-21.7,1004,-1.07,-3.5,463,904,290
+all,-3,15 min,-2.74,-23.9,1004,-1.24,-4.4,463,925,331
+all,-3,to the end,-2.87,-30.3,1004,-1.43,-7.0,463,963,376
+all,-5,2 min,-2.59,-12.0,1004,-0.67,-1.6,463,776,184
+all,-5,5 min,-2.63,-14.0,1004,-0.58,-1.5,463,821,222
+all,-5,15 min,-2.62,-14.9,1004,-0.75,-2.1,463,864,275
+all,-5,to the end,-2.87,-21.0,1004,-1.15,-4.1,463,928,340
+all,-8,2 min,-2.32,-8.5,1004,-0.83,-1.9,463,643,142
+all,-8,5 min,-2.32,-8.6,1004,-0.70,-1.6,463,691,171
+all,-8,15 min,-2.21,-8.5,1004,-0.99,-2.5,463,756,229
+all,-8,to the end,-2.65,-12.3,1004,-1.29,-4.2,463,873,308
+all,-10,2 min,-2.20,-7.5,1004,-0.91,-2.1,463,568,122
+all,-10,5 min,-2.22,-7.7,1004,-0.80,-1.8,463,611,153
+all,-10,15 min,-2.17,-7.8,1004,-0.97,-2.4,463,688,212
+all,-10,to the end,-2.51,-10.2,1004,-1.29,-3.8,463,832,299
+all,-15,2 min,-2.03,-6.4,1004,-0.92,-2.0,463,393,79
+all,-15,5 min,-2.04,-6.5,1004,-0.87,-2.0,463,426,108
+all,-15,15 min,-2.02,-6.6,1004,-0.98,-2.2,463,495,159
+all,-15,to the end,-2.14,-7.5,1004,-1.69,-4.7,463,683,274
+all,-20,2 min,-1.58,-4.7,1004,-0.94,-2.0,463,248,56
+all,-20,5 min,-1.62,-4.9,1004,-0.80,-1.8,463,294,75
+all,-20,15 min,-1.70,-5.2,1004,-1.06,-2.4,463,361,117
+all,-20,to the end,-1.81,-5.9,1004,-1.57,-3.9,463,581,233
+all,-30,2 min,-1.07,-3.1,1004,-0.90,-1.9,463,97,29
+all,-30,5 min,-1.12,-3.2,1004,-0.88,-1.9,463,116,39
+all,-30,15 min,-1.14,-3.3,1004,-0.97,-2.1,463,179,59
+all,-30,to the end,-1.29,-3.9,1004,-1.20,-2.7,463,414,174
+strong signals,none,,-0.26,-0.5,459,-0.39,-0.5,238,0,0
+strong signals,-3,2 min,-2.84,-10.7,459,-0.78,-1.5,238,413,129
+strong signals,-3,5 min,-3.05,-16.5,459,-0.87,-1.8,238,427,150
+strong signals,-3,15 min,-3.13,-19.9,459,-1.19,-2.7,238,431,175
+strong signals,-3,to the end,-3.22,-24.9,459,-1.52,-5.6,238,446,196
+strong signals,-5,2 min,-2.93,-10.3,459,-0.28,-0.4,238,381,94
+strong signals,-5,5 min,-2.98,-11.5,459,-0.20,-0.3,238,392,114
+strong signals,-5,15 min,-3.08,-13.4,459,-0.58,-1.1,238,410,146
+strong signals,-5,to the end,-3.20,-16.2,459,-1.05,-2.5,238,435,178
+strong signals,-8,2 min,-2.54,-6.1,459,-0.40,-0.6,238,322,67
+strong signals,-8,5 min,-2.62,-6.3,459,-0.27,-0.4,238,334,84
+strong signals,-8,15 min,-2.44,-6.0,459,-0.80,-1.4,238,360,116
+strong signals,-8,to the end,-3.00,-8.8,459,-0.99,-2.2,238,414,155
+strong signals,-10,2 min,-2.29,-5.0,459,-0.43,-0.6,238,285,55
+strong signals,-10,5 min,-2.35,-5.2,459,-0.31,-0.5,238,296,72
+strong signals,-10,15 min,-2.24,-5.0,459,-0.57,-0.9,238,327,107
+strong signals,-10,to the end,-2.70,-6.8,459,-0.89,-1.7,238,388,151
+strong signals,-15,2 min,-1.91,-3.8,459,-0.53,-0.8,238,202,38
+strong signals,-15,5 min,-1.96,-4.0,459,-0.47,-0.7,238,213,52
+strong signals,-15,15 min,-1.96,-4.0,459,-0.49,-0.7,238,244,80
+strong signals,-15,to the end,-2.14,-4.6,459,-1.42,-2.6,238,319,138
+strong signals,-20,2 min,-1.54,-2.9,459,-0.48,-0.7,238,131,27
+strong signals,-20,5 min,-1.59,-3.0,459,-0.31,-0.4,238,147,35
+strong signals,-20,15 min,-1.62,-3.1,459,-0.50,-0.7,238,174,54
+strong signals,-20,to the end,-1.86,-3.7,459,-1.26,-2.1,238,267,118
+strong signals,-30,2 min,-0.85,-1.5,459,-0.42,-0.6,238,47,13
+strong signals,-30,5 min,-0.84,-1.5,459,-0.37,-0.5,238,56,17
+strong signals,-30,15 min,-0.83,-1.5,459,-0.38,-0.5,238,84,27
+strong signals,-30,to the end,-1.22,-2.3,459,-0.73,-1.1,238,183,90
+"about 70th minute and later, all",none,,-0.31,-0.5,306,-0.43,-0.6,129,0,0
+"about 70th minute and later, all",-3,2 min,-2.96,-8.2,306,-0.92,-1.7,129,259,72
+"about 70th minute and later, all",-3,5 min,-3.13,-11.6,306,-1.16,-2.6,129,275,78
+"about 70th minute and later, all",-3,15 min,-3.29,-14.8,306,-1.37,-3.4,129,283,89
+"about 70th minute and later, all",-3,to the end,-3.27,-14.8,306,-1.36,-3.4,129,287,90
+"about 70th minute and later, all",-5,2 min,-3.01,-8.2,306,-0.61,-1.0,129,240,53
+"about 70th minute and later, all",-5,5 min,-2.93,-8.3,306,-0.62,-1.0,129,257,58
+"about 70th minute and later, all",-5,15 min,-3.11,-9.8,306,-0.97,-1.9,129,266,74
+"about 70th minute and later, all",-5,to the end,-3.08,-9.8,306,-0.96,-1.9,129,269,75
+"about 70th minute and later, all",-8,2 min,-2.86,-6.4,306,-0.53,-0.8,129,205,45
+"about 70th minute and later, all",-8,5 min,-2.87,-6.6,306,-0.48,-0.7,129,221,47
+"about 70th minute and later, all",-8,15 min,-2.99,-7.6,306,-0.99,-1.7,129,240,66
+"about 70th minute and later, all",-8,to the end,-3.10,-8.4,306,-1.13,-2.0,129,248,70
+"about 70th minute and later, all",-10,2 min,-2.67,-5.2,306,-0.66,-0.9,129,185,40
+"about 70th minute and later, all",-10,5 min,-2.73,-5.4,306,-0.55,-0.8,129,199,44
+"about 70th minute and later, all",-10,15 min,-2.88,-6.1,306,-1.07,-1.8,129,228,64
+"about 70th minute and later, all",-10,to the end,-3.00,-6.7,306,-1.25,-2.1,129,237,68
+"about 70th minute and later, all",-15,2 min,-2.53,-4.3,306,-0.73,-1.0,129,130,28
+"about 70th minute and later, all",-15,5 min,-2.62,-4.6,306,-0.56,-0.8,129,142,36
+"about 70th minute and later, all",-15,15 min,-2.65,-4.7,306,-0.68,-1.0,129,166,51
+"about 70th minute and later, all",-15,to the end,-2.55,-4.5,306,-1.37,-2.2,129,184,55
+"about 70th minute and later, all",-20,2 min,-2.06,-3.4,306,-0.84,-1.1,129,104,24
+"about 70th minute and later, all",-20,5 min,-2.31,-3.8,306,-0.71,-1.0,129,119,29
+"about 70th minute and later, all",-20,15 min,-2.43,-4.0,306,-0.92,-1.3,129,137,38
+"about 70th minute and later, all",-20,to the end,-2.35,-3.9,306,-1.62,-2.5,129,156,44
+"about 70th minute and later, all",-30,2 min,-1.81,-2.9,306,-0.74,-1.0,129,68,17
+"about 70th minute and later, all",-30,5 min,-1.98,-3.1,306,-0.63,-0.8,129,78,21
+"about 70th minute and later, all",-30,15 min,-1.94,-3.1,306,-0.67,-0.9,129,99,25
+"about 70th minute and later, all",-30,to the end,-1.96,-3.2,306,-0.83,-1.1,129,117,29
+"about 70th minute and later, strong signals",none,,+0.90,+0.7,121,-0.11,-0.1,58,0,0
+"about 70th minute and later, strong signals",-3,2 min,-2.92,-3.7,121,-0.49,-0.5,58,104,34
+"about 70th minute and later, strong signals",-3,5 min,-3.48,-6.7,121,-1.11,-1.5,58,110,38
+"about 70th minute and later, strong signals",-3,15 min,-3.79,-10.1,121,-1.49,-2.4,58,112,43
+"about 70th minute and later, strong signals",-3,to the end,-3.79,-10.1,121,-1.49,-2.4,58,113,43
+"about 70th minute and later, strong signals",-5,2 min,-3.06,-3.9,121,-0.55,-0.5,58,102,26
+"about 70th minute and later, strong signals",-5,5 min,-3.11,-4.1,121,-0.31,-0.3,58,108,28
+"about 70th minute and later, strong signals",-5,15 min,-3.47,-5.3,121,-1.15,-1.4,58,111,38
+"about 70th minute and later, strong signals",-5,to the end,-3.46,-5.3,121,-1.15,-1.4,58,112,38
+"about 70th minute and later, strong signals",-8,2 min,-3.28,-4.1,121,-0.05,-0.0,58,89,19
+"about 70th minute and later, strong signals",-8,5 min,-3.44,-4.4,121,+0.01,+0.0,58,94,20
+"about 70th minute and later, strong signals",-8,15 min,-3.31,-4.3,121,-1.20,-1.3,58,100,32
+"about 70th minute and later, strong signals",-8,to the end,-3.67,-5.4,121,-1.10,-1.2,58,104,34
+"about 70th minute and later, strong signals",-10,2 min,-2.74,-2.7,121,+0.17,+0.1,58,81,17
+"about 70th minute and later, strong signals",-10,5 min,-2.89,-2.9,121,+0.23,+0.2,58,86,18
+"about 70th minute and later, strong signals",-10,15 min,-2.78,-2.8,121,-1.05,-1.1,58,94,30
+"about 70th minute and later, strong signals",-10,to the end,-3.15,-3.4,121,-1.03,-1.1,58,97,32
+"about 70th minute and later, strong signals",-15,2 min,-2.25,-2.0,121,+0.07,+0.1,58,58,12
+"about 70th minute and later, strong signals",-15,5 min,-2.50,-2.2,121,+0.24,+0.2,58,62,15
+"about 70th minute and later, strong signals",-15,15 min,-2.41,-2.2,121,-0.22,-0.2,58,69,24
+"about 70th minute and later, strong signals",-15,to the end,-2.45,-2.2,121,-1.34,-1.3,58,74,26
+"about 70th minute and later, strong signals",-20,2 min,-1.67,-1.4,121,-0.03,-0.0,58,46,11
+"about 70th minute and later, strong signals",-20,5 min,-1.95,-1.6,121,+0.13,+0.1,58,51,13
+"about 70th minute and later, strong signals",-20,15 min,-1.91,-1.6,121,-0.46,-0.4,58,54,18
+"about 70th minute and later, strong signals",-20,to the end,-2.02,-1.7,121,-1.61,-1.5,58,60,21
+"about 70th minute and later, strong signals",-30,2 min,-0.94,-0.8,121,-0.02,-0.0,58,27,8
+"about 70th minute and later, strong signals",-30,5 min,-0.99,-0.8,121,+0.10,+0.1,58,28,10
+"about 70th minute and later, strong signals",-30,15 min,-0.84,-0.7,121,-0.08,-0.1,58,33,12
+"about 70th minute and later, strong signals",-30,to the end,-1.02,-0.8,121,-0.48,-0.4,58,39,14

@@ -1,0 +1,52 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='760' height='420' viewBox='0 0 760 420' role='img' aria-labelledby='t d'>
+<title id='t'>Case 2: a tight spread that was not a goal either</title>
+<desc id='d'>mid 30 s before 0.415; at detection mid 0.705, ask 0.71, implied bid 0.70; asks +1..+60 s: 0.71, 0.71, 0.71, 0.71, 0.71, 0.71; side won: yes</desc>
+<rect width='100%' height='100%' fill='#fcfcfb'/>
+<text x='24.0' y='34.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='18' fill='#0b0b0b' text-anchor='start' font-weight='600' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Case 2: a tight spread that was not a goal either</text>
+<text x='24.0' y='56.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='13' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>87 minutes after kick-off by the wall clock. The team had led for 20 minutes and traded at 0.68 to 0.80. Its bid was</text>
+<text x='24.0' y='73.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='13' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>pulled 30 s before, faking a level score, and came back with a 1-cent spread. The team won; the ask stayed at 0.71.</text>
+<line x1='70' y1='356.0' x2='720' y2='356.0' stroke='#e4e3df'/>
+<text x='62.0' y='360.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.00</text>
+<line x1='70' y1='294.5' x2='720' y2='294.5' stroke='#e4e3df'/>
+<text x='62.0' y='298.5' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.25</text>
+<line x1='70' y1='233.0' x2='720' y2='233.0' stroke='#e4e3df'/>
+<text x='62.0' y='237.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.50</text>
+<line x1='70' y1='171.5' x2='720' y2='171.5' stroke='#e4e3df'/>
+<text x='62.0' y='175.5' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.75</text>
+<line x1='70' y1='110.0' x2='720' y2='110.0' stroke='#e4e3df'/>
+<text x='62.0' y='114.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>1.00</text>
+<text x='70.0' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>-30 s</text>
+<text x='162.9' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0</text>
+<text x='255.7' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+1 s</text>
+<text x='348.6' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+2 s</text>
+<text x='441.4' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+5 s</text>
+<text x='534.3' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+10 s</text>
+<text x='627.1' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+30 s</text>
+<text x='720.0' y='376.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>+60 s</text>
+<text x='395.0' y='400.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Time from the detected jump (steps, not to scale)</text>
+<polyline points='162.9,181.3 255.7,181.3 348.6,181.3 441.4,181.3 534.3,181.3 627.1,181.3 720.0,181.3' fill='none' stroke='#2a78d6' stroke-width='2'/>
+<circle cx='162.9' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='162.9' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='255.7' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='255.7' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='348.6' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='348.6' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='441.4' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='441.4' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='534.3' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='534.3' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='627.1' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='627.1' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='720.0' cy='181.3' r='5' fill='#2a78d6' stroke='#fcfcfb' stroke-width='2'/>
+<text x='720.0' y='171.3' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='middle' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>0.71</text>
+<circle cx='70.0' cy='253.9' r='5' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<text x='78.0' y='257.9' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>mid 0.415</text>
+<circle cx='162.9' cy='183.8' r='5' fill='#eb6834' stroke='#fcfcfb' stroke-width='2'/>
+<text x='170.9' y='197.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>bid 0.70</text>
+<line x1='162.9' y1='181.3' x2='162.9' y2='183.8' stroke='#eb6834' stroke-width='2' stroke-dasharray='4 3'/>
+<text x='152.9' y='211.8' font-family='Inter, Helvetica, Arial, sans-serif' font-size='11' fill='#52514e' text-anchor='end' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>spread 1 c</text>
+<circle cx='70.0' cy='91' r='5' fill='#2a78d6'/>
+<text x='80.0' y='95.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Best ask of the jumping side</text>
+<circle cx='306.0' cy='91' r='5' fill='#eb6834'/>
+<text x='316.0' y='95.0' font-family='Inter, Helvetica, Arial, sans-serif' font-size='12' fill='#0b0b0b' text-anchor='start' font-weight='400' stroke='#fcfcfb' stroke-width='3' paint-order='stroke'>Mid before / implied bid at the jump</text>
+</svg>

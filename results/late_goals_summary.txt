@@ -1,0 +1,37 @@
+$ python3 scripts/summarize_late_goals.py data/late_goal_jumps.csv
+Late jumps at a level score: 837 (days 14, matches 459); the jumping side won 380
+
+Buy the jumping side at the best ask N seconds after the detection:
+  +0s   -4.21 per $10 (t -18.2) n762  total $ -3210
+  +1s   -3.15 per $10 (t -9.6) n800  total $ -2517
+  +2s   -2.85 per $10 (t -7.9) n806  total $ -2297
+  +5s   -2.61 per $10 (t -6.5) n810  total $ -2112
+  +10s  -1.79 per $10 (t -3.8) n810  total $ -1448
+  +30s  -1.07 per $10 (t -1.9) n794  total $  -849
+
+Entry +2 s, by entry price:
+  0.00-0.50 -2.67 per $10 (t -2.8) n263  total $  -702
+  0.50-0.65 -3.30 per $10 (t -3.2) n71   total $  -234
+  0.65-0.80 -1.70 per $10 (t -3.2) n156  total $  -266
+  0.80-0.90 -3.07 per $10 (t -7.3) n195  total $  -599
+  0.90-0.98 -4.10 per $10 (t -8.4) n121  total $  -497
+
+By the bid-ask spread at the detection (known at once): a real goal reprices both sides, a vanished side leaves a wide spread
+  spread  0-  2 c:  34 jumps, won  82% | entry +2 s +0.68 per $10 (t +0.6) n33   total $   +23
+  spread  3-  4 c:  51 jumps, won  73% | entry +2 s -1.30 per $10 (t -1.6) n50   total $   -65
+  spread  5-  8 c:  60 jumps, won  73% | entry +2 s -0.69 per $10 (t -0.8) n57   total $   -39
+  spread  9- 19 c:  65 jumps, won  68% | entry +2 s -0.92 per $10 (t -1.1) n60   total $   -55
+  spread 20-100 c: 627 jumps, won  36% | entry +2 s -3.56 per $10 (t -7.8) n606  total $ -2160
+
+Tight spread at the jump (spread 4 c or less and bid >= 0.45): 85 jumps, won 76%
+  +0s   -0.37 per $10 (t -0.6) n83   total $   -31
+  +1s   -0.56 per $10 (t -0.9) n83   total $   -46
+  +2s   -0.51 per $10 (t -0.8) n83   total $   -42
+  +5s   -0.36 per $10 (t -0.5) n83   total $   -30
+  +10s  -0.27 per $10 (t -0.3) n83   total $   -23
+  price 60 s later minus the +2 s entry: median +0.010 (p25 +0.000, p75 +0.030)
+
+The book 30 s before the jump (sum of the three mids; about 1.00 when all three books are two-sided):
+  all jumps: sum above 1.10 in 142 of 837
+  tight-spread jumps: sum above 1.10 in 51 of 85
+  tight spread and a clean book before (sum 0.95-1.05): 19 jumps, won 13 | entry +2 s -0.65 per $10 (t -0.4) n19   total $   -12
