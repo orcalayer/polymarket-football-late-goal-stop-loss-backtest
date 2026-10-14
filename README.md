@@ -20,7 +20,7 @@ No and no.
 |---|---|---|
 | Buy a late jump at a level score | 837 jumps, 459 matches, 14 match days | -$2.85 per $10 at +2 s (t -7.9); every entry delay from 0 to 30 s loses |
 | Buy only tight-spread jumps (spread <= 4 c, bid >= 0.45) | 85 jumps, 76% won | -$0.51 per $10 at +2 s (t -0.8); in 51 of them the three mids before the jump summed to more than 1.10, a sign the level score itself was pulled quotes |
-| Stop-loss on goal-signal bets | 1,004 replayed signals, 463 live | All 28 stop settings worse than holding on the replay (-$1.07 to -$2.87 vs. -$0.55); live about the same or worse |
+| Stop-loss on goal-signal bets | 1,004 replayed signals, 463 live | All 28 stop settings worse than holding on the replay (-$1.07 to -$2.87 vs. -$0.55); live about the same as holding |
 
 ![Buying a late jump: result by entry delay](img/late-goal-entry-delay.svg)
 

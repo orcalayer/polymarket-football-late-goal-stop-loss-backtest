@@ -17,7 +17,7 @@ kick-off by the wall clock (about the 72nd minute of play).
 | Detection | Mid 0.505, but the ask was 0.78 and the bid about 0.23: a 55-cent spread |
 | +1 to +5 s | Ask 0.81 |
 | +10 s and later | Ask back at 0.25 |
-| Result | Persipura lost |
+| Result | Persipura did not win (the match ended in a draw) |
 
 The mid-price doubled because the sellers stepped away from the book while the bid stayed where it was. A bot that read the mid as
 a goal and bought at +2 seconds paid 0.81 and lost $10.10 including the fee.
